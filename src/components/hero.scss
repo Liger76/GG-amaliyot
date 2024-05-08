@@ -1,0 +1,339 @@
+.container {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.hero-box {
+    margin-top: 211px;
+}
+
+//hero-box1
+.hero-box1 {
+    display: flex;
+    margin-top: 142px;
+    margin-bottom: 141px;
+}
+
+.hero-box1-box {
+    margin-left: 165px;
+    margin-bottom: 141px;
+}
+
+.hero-box1-title {
+    width: 172px;
+    height: 36px;
+    top: 142px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    color: #BDBDBD;
+    font-family: Hind Siliguri;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 35.57px;
+    text-align: left;
+
+}
+
+.hero-box1-text {
+    width: 540px;
+    height: 288px;
+    top: 202px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+    //styleName: Title;
+    font-family: Hind Siliguri;
+    font-size: 96px;
+    font-weight: 700;
+    line-height: 96px;
+    text-align: left;
+
+}
+
+.hero-box1-text1 {
+    //styleName: Sub-title;
+    font-family: Hind Siliguri;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38.81px;
+    text-align: left;
+    color: #BDBDBD;
+    //styleName: Sub-title;
+    font-family: Hind Siliguri;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 38.81px;
+    text-align: left;
+    width: 540px;
+    height: 117px;
+    top: 514px;
+    left: 165px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.hero-box1-text2 {
+    width: Hug (152px)px;
+    height: Hug (24px)px;
+    top: 655px;
+    left: 165px;
+    gap: 12px;
+    opacity: 0px;
+    color: #FF7235;
+}
+
+.hero-box1-img {
+    width: 539px;
+    height: 433.03px;
+    margin-top: 100px;
+    margin-left: 31px;
+}
+
+//hero-box2
+.hero-box2 {
+    display: flex;
+    margin-bottom: 141px;
+    background: #FFFAF8;
+}
+
+.hero-box2-img {
+    margin-top: 100px;
+    margin-left: 167px;
+    width: 540px;
+    height: 431.58px;
+    top: 194px;
+    left: 167px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+// hero3
+.hero3 {
+    .hero3-box {
+        display: flex;
+        margin-left: 165px;
+        margin-top: 139px;
+    }
+
+    .hero3-title {
+        //styleName: Title;
+        font-family: Hind Siliguri;
+        font-size: 96px;
+        font-weight: 700;
+        line-height: 96px;
+        text-align: left;
+        width: 730px;
+        height: 192px;
+        top: 139px;
+        left: 165px;
+        gap: 0px;
+        opacity: 0px;
+
+    }
+
+    .hero3-text {
+        //styleName: Sub-title;
+        font-family: Hind Siliguri;
+        font-size: 24px;
+        font-weight: 400;
+        line-height: 38.81px;
+        text-align: left;
+        color: #BDBDBD;
+        width: 350px;
+        height: 156px;
+        top: 157px;
+        left: 925px;
+        gap: 0px;
+        opacity: 0px;
+        margin-top: 97px;
+    }
+
+    .hero3-box1 {
+        display: flex;
+        margin-left: 165px;
+        margin-top: 80px;
+
+    }
+
+    .hero3-box1-box {
+        background: rgb(255, 248, 248);
+        width: 350px;
+        height: 332px;
+        top: 411px;
+        left: 165px;
+        gap: 0px;
+        border-radius: 12px;
+        opacity: 0px;
+        align-items: center;
+        text-align: center;
+        margin-bottom: 139px;
+        margin-left: 30px;
+        box-shadow: 10px 10px 10px rgb(255, 245, 233);
+        justify-content: center;
+
+    }
+    .hero3-box1-box:hover{
+        box-shadow: 10px 10px 10px rgb(252, 242, 242);
+        transition: all 1s ease;
+        width: 375px;
+        height: 375px;
+        
+    }
+    .hero3-box1-arr{
+        margin-top: 23px
+    }
+
+    .hero3-box-img {
+        align-items: center;
+        text-align: center;
+        padding-top: 71px;
+    }
+
+    .hero3-box1-text {
+        font-family: Hind Siliguri;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 22.64px;
+        text-align: center;
+        color: #BDBDBD;
+       }
+
+    .hero3-box1-title {
+        font-family: Hind Siliguri;
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 30px;
+        text-align: center;
+
+    }
+}
+
+//hero4
+.hero4 {
+    width: 1440px;
+    height: 900px;
+    top: 5160px;
+    gap: 0px;
+    opacity: 0px;
+    background: #FFFAF8;
+
+    .hero4-title {
+        width: 1110px;
+        height: 72px;
+        top: 124px;
+        left: 165px;
+        gap: 0px;
+        opacity: 0px;
+        text-align: center;
+        margin-left: 165px;
+        padding-top: 124px;
+    }
+
+    .hero4-box {
+        display: flex;
+        margin-left: 75px;
+        margin-top: 80px;
+    }
+
+    .hero4-box1 {
+        margin-left: 30px;
+        background: white;
+        width: 350px;
+        height: 500px;
+        top: 276px;
+        left: 925px;
+        gap: 0px;
+        opacity: 0px;
+
+        padding-left: 40px;
+        padding-top: 41px;
+    }
+    .hero4-title1 {
+        width: 200px;
+        height: 52px;
+        top: 89px;
+        left: 40px;
+        gap: 0px;
+        opacity: 0px;
+        font-family: Hind Siliguri;
+        font-size: 32px;
+        font-weight: 600;
+        line-height: 51.74px;
+        text-align: left;
+
+    }
+
+    .hero4-text {
+        font-family: Hind Siliguri;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 29.11px;
+        text-align: left;
+        width: 158px;
+        height: 29px;
+        gap: 0px;
+        opacity: 0px;
+
+
+    }
+
+    .hero4-text1 {
+        font-family: Hind Siliguri;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 38.81px;
+        text-align: left;
+
+    }
+
+    .hero4-text2 {
+        font-family: Hind Siliguri;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 19.4px;
+        text-align: left;
+        color: #BDBDBD;
+
+    }
+
+    .hero4-btn {
+        width: Hug (136px)px;
+        height: Hug (50px)px;
+        top: 390px;
+        left: 40px;
+        padding: 12px 24px 12px 24px;
+        gap: 10px;
+        border-radius: 8px;
+        background: none;
+        opacity: 0px;
+        border: 1px solid #FF7235
+   }
+   .hero4-btn:hover{
+    background-color:#FF7235;
+    border: 1px solid #FF7235;
+    color: #FFF;
+   }
+}
+
+//hero5
+.hero5 {
+    width: 1440px;
+    height: 800px;
+    left: 216px;
+    gap: 0px;
+    opacity: 0px;
+
+    .hero5-title {
+        //styleName: Title;
+        font-family: Hind Siliguri;
+        font-size: 96px;
+        font-weight: 700;
+        line-height: 96px;
+        text-align: center;
+        padding-top: 121px;
+
+    }
+}

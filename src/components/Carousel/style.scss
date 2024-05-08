@@ -1,0 +1,72 @@
+.slide{
+    border-top: 10px solid rgb(255, 136, 0);
+    border-radius: 10px;
+};
+.slide1{
+    border-top: 10px solid yellow;
+    border-radius: 10px;
+}
+.slide2{
+    border-top: 10px solid blue;
+    border-radius: 10px;
+}
+.slide3{
+    border-top: 10px solid rgb(0, 174, 255);
+    border-radius: 10px;
+}
+.slide4{
+    border-top: 10px solid brown;
+    border-radius: 10px;
+
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+.mySwiper{
+    margin-top: -300px;
+    padding: 20px 0;
+    margin-bottom: 121px;
+}
+.title{
+    font-family: Hind Siliguri;
+font-size: 16px;
+font-weight: 700;
+line-height: 25.87px;
+text-align: left;
+margin-left: 5px;
+ span{
+    font-family: Hind Siliguri;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.87px;
+text-align: left;
+ }
+
+}
+   
+
+.carusels-title{
+   margin-left: 30px;
+   width: 293px;
+height: 145px;
+top: 26px;
+left: 28px;
+gap: 0px;
+opacity: 0px;
+font-family: Hind Siliguri;
+font-size: 18px;
+font-weight: 400;
+line-height: 29.11px;
+text-align: left;
+
+}
+.slide-box{
+    display: flex;
+    align-items: center;
+}
+.img{
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+}
